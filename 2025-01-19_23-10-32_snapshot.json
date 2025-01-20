@@ -3,7 +3,7 @@
     "git_custom_nodes": {
         "https://github.com/ltdrdata/ComfyUI-Manager.git": {
             "hash": "f4fb9e3ab4e199de5d6a608d58b699a1a74a8eab",
-            "disabled": false
+            "disabled": true
         },
         "https://github.com/kaibioinfo/ComfyUI_AdvancedRefluxControl": {
             "hash": "0a87efa252ae5e8f4af1225b0e19c867f908376a",
